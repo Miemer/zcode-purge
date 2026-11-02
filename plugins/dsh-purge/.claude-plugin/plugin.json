@@ -1,0 +1,21 @@
+{
+  "name": "dsh-purge",
+  "version": "1.6.69",
+  "description": "ZCode adaptation of dsh-purge-community: redteam skill library (23 skills), redteam commander & unrestricted-mode agents, and kickoff commands. DSH host patches/panel are not portable and intentionally excluded.",
+  "description_i18n": {
+    "en": "ZCode adaptation of dsh-purge-community: 23 redteam skills, commander/unrestricted agents, kickoff commands. DSH host patches and panel are DSH-only and excluded.",
+    "zh-CN": "dsh-purge 社区版的 ZCode 适配：23 个红队技能、红队指挥/无限制模式智能体、启动命令。DSH 宿主补丁与面板为 DSH 专属，已按规则剔除。"
+  },
+  "author": {
+    "name": "kingcharleslzy-ai (community); original by YuJunZhiXue"
+  },
+  "license": "MIT",
+  "keywords": [
+    "redteam",
+    "pentest",
+    "skills",
+    "dsh-purge",
+    "unrestricted"
+  ],
+  "skills": "skills"
+}

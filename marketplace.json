@@ -1,0 +1,33 @@
+{
+  "name": "zcode-purge",
+  "description": "ZCode marketplace carrying the ZCode-adapted dsh-purge plugin (redteam skills, agents, commands).",
+  "description_i18n": {
+    "zh-CN": "收录 dsh-purge 的 ZCode 适配版插件（红队技能、智能体、命令）。"
+  },
+  "owner": {
+    "name": "kingcharleslzy-ai"
+  },
+  "plugins": [
+    {
+      "name": "dsh-purge",
+      "source": "./plugins/dsh-purge",
+      "description": "ZCode adaptation of dsh-purge-community: 23 redteam skills, redteam-lead & unrestricted-mode agents, /redteam and /purge-status commands.",
+      "description_i18n": {
+        "zh-CN": "dsh-purge 社区版的 ZCode 适配：23 个红队技能、红队指挥/无限制模式智能体、/redteam 与 /purge-status 命令。"
+      },
+      "version": "1.6.69",
+      "author": {
+        "name": "kingcharleslzy-ai (community); original by YuJunZhiXue"
+      },
+      "license": "MIT",
+      "category": "developer-tools",
+      "keywords": [
+        "redteam",
+        "pentest",
+        "skills",
+        "dsh-purge",
+        "unrestricted"
+      ]
+    }
+  ]
+}
